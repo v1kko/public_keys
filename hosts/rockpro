@@ -1,7 +1,7 @@
 Subnet = 10.0.0.9/32
 Address = cloud.lipsum.eu
-Address = 2001:985:ece3:1::1 443
-Address = 2001:985:ece3:1::1 80
+Address = 2a02:a466:c079:1::1 443
+Address = 2a02:a466:c079:1::1 80
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAqUUu7UOJgq2hPakDxE2cENM0mxIs9M1jKiFgDlHv6ZlBKIar5DrG
