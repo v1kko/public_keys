@@ -1,0 +1,20 @@
+Subnet = 10.0.0.13/32
+#Address = lightsail.lipsum.eu
+Address = 18.134.92.171 655
+Address = 18.134.92.171 665
+#Address = 18.134.92.171 80
+Address = 2a05:d01c:bb7:ed00:70d5:a6ba:5062:cb0b 655
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEApwm/Hr2jMIn+55sEGbtnJ13gpC7NhXaEFJffLezW6AmWk5mCBdtp
+R3etciExSybC5G9bcaawiet13xHls+KHbF6+2HQWHovcd2wu6Jugf0KB9looa1F2
+0IZ8nqOM/R1VeL19TgwRKJ00s8vbrzc4wJldkG31NC6ORBoUOw8qWe5xwuzr8zOw
+AaX6EPIctib0jPCdtLMnXGv5yF96xpvCJeqBRSKpccI4U9kpFkKoHu9KyNzz/wjv
+opKZ3a680v40JItmJ/uBjrKruEYFxx+XIodnxZJNjsKq+XtZf8ikqfgN/kGBmfHO
+emIxR9QwutpD1+YVI1q1YwfMh8gEa+jy8OOSUAF6xESx4CUcDBJ/vWpVx5h/kdil
+ffsuVA44FS51jyFmRvmFOAK/4hsaNh+PXB2nYt1enkn/B55tvd5MAtz47581+9JA
+aUGqewGHnhO8CambOmzwaUk3wsMCX2Ag4kmDa3wtpKqZmnPsHYWeyBMtKUXJAaD9
+xLhFq221Aa+wraXiKr6ifd0Z4RXvb5ZDmUUv1dFXLJvsgUx/RFViGbQKobwKHvDN
+6WvMwtyZkVbc4g3IENuDte9G//XMW543aZ89UMmaPRNv3VfJWvPyXn35VYET/q9f
+PwdFs9NXae3AROosFllepDh/UTi6UGnDI21Ztuu81uo5YlyhUa0U0W0CAwEAAQ==
+-----END RSA PUBLIC KEY-----
